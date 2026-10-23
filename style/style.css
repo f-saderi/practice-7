@@ -1,0 +1,24 @@
+
+.box{
+    height: 800px;
+    width: 700px;
+    border: 10px solid #333;
+    background-color: bisque;
+    text-transform:capitalize ;
+    display: flex;
+    flex-direction:column-reverse
+    ;
+    justify-items: center;
+    background-image:url(../image/images.jpg);
+    background-size: cover;
+   
+   
+    
+}
+h1{
+    border: 1px;
+    width: 700px;
+    height: 35px;
+    background: #333;
+    text-align: center;
+}
